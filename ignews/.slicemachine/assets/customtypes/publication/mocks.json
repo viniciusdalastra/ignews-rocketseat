@@ -1,0 +1,22 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "safety"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "shorter",
+    "type": "Text"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Dolore consectetur non reprehenderit laborum velit deserunt et et Lorem culpa ea eu. Est Lorem adipisicing et occaecat adipisicing nisi duis irure."
+        }
+      }
+    ]
+  }
+}
